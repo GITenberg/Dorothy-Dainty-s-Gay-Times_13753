@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1796'
     url: http://www.gutenberg.org/2009/agents/1796
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13753#Dorothy-Dainty-s-Gay-Times
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-10-14'
 gutenberg_type: Text
